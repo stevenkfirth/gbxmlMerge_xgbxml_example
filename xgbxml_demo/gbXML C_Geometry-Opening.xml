@@ -3373,42 +3373,9 @@
       </PlanarGeometry>
       <CADObjectId>[Face[1313228,15]]</CADObjectId>
     <Opening openingType="OperableWindow" id="aim0566">
-        <RectangularGeometry id="aim0567">
-          <CartesianPoint>
-            <Coordinate>5.5</Coordinate>
-            <Coordinate>3</Coordinate>
-            <Coordinate>0</Coordinate>
-          </CartesianPoint>
-          <Width>3</Width>
-          <Height>6</Height>
-        </RectangularGeometry>
-        <PlanarGeometry>
-          <PolyLoop>
-            <CartesianPoint>
-              <Coordinate>86.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>3</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>86.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>9</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>89.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>9</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>89.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>3</Coordinate>
-            </CartesianPoint>
-          </PolyLoop>
-        </PlanarGeometry>
         <CADObjectId>Ripcord_Fixed With Size Grips: Standard [1227105]</CADObjectId>
         <Name>N-2-E-W-1-W-1</Name>
-      </Opening>
+      <PlanarGeometry><PolyLoop><CartesianPoint><Coordinate>86.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>3.0</Coordinate></CartesianPoint><CartesianPoint><Coordinate>86.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>9.0</Coordinate></CartesianPoint><CartesianPoint><Coordinate>89.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>9.0</Coordinate></CartesianPoint><CartesianPoint><Coordinate>89.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>3.0</Coordinate></CartesianPoint></PolyLoop></PlanarGeometry></Opening>
       </Surface>
     <Surface surfaceType="InteriorFloor" id="aim0196">
       <AdjacentSpaceId spaceIdRef="aim0014" surfaceType="Ceiling"/>
@@ -3647,42 +3614,9 @@
       </PlanarGeometry>
       <CADObjectId>[Face[1313235,15]]</CADObjectId>
     <Opening openingType="OperableWindow" id="aim0646">
-        <RectangularGeometry id="aim0647">
-          <CartesianPoint>
-            <Coordinate>7.75</Coordinate>
-            <Coordinate>3</Coordinate>
-            <Coordinate>0</Coordinate>
-          </CartesianPoint>
-          <Width>3</Width>
-          <Height>6</Height>
-        </RectangularGeometry>
-        <PlanarGeometry>
-          <PolyLoop>
-            <CartesianPoint>
-              <Coordinate>80.7243728</Coordinate>
-              <Coordinate>102.0268145</Coordinate>
-              <Coordinate>3</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>80.7243728</Coordinate>
-              <Coordinate>102.0268145</Coordinate>
-              <Coordinate>9</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>80.7243728</Coordinate>
-              <Coordinate>105.0268145</Coordinate>
-              <Coordinate>9</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>80.7243728</Coordinate>
-              <Coordinate>105.0268145</Coordinate>
-              <Coordinate>3</Coordinate>
-            </CartesianPoint>
-          </PolyLoop>
-        </PlanarGeometry>
         <CADObjectId>Ripcord_Fixed With Size Grips: Standard [1227209]</CADObjectId>
         <Name>W-3-E-W-7-W-1</Name>
-      </Opening>
+      <PlanarGeometry><PolyLoop><CartesianPoint><Coordinate>80.7243728</Coordinate><Coordinate>102.0268145</Coordinate><Coordinate>3.0</Coordinate></CartesianPoint><CartesianPoint><Coordinate>80.7243728</Coordinate><Coordinate>102.0268145</Coordinate><Coordinate>9.0</Coordinate></CartesianPoint><CartesianPoint><Coordinate>80.7243728</Coordinate><Coordinate>105.0268145</Coordinate><Coordinate>9.0</Coordinate></CartesianPoint><CartesianPoint><Coordinate>80.7243728</Coordinate><Coordinate>105.0268145</Coordinate><Coordinate>3.0</Coordinate></CartesianPoint></PolyLoop></PlanarGeometry></Opening>
       </Surface>
     <Surface surfaceType="InteriorFloor" id="aim0424">
       <AdjacentSpaceId spaceIdRef="aim0242" surfaceType="Ceiling"/>
@@ -3842,42 +3776,9 @@
       </PlanarGeometry>
       <CADObjectId>[Face[1313242,18]]</CADObjectId>
     <Opening openingType="OperableWindow" id="aim0714">
-        <RectangularGeometry id="aim0715">
-          <CartesianPoint>
-            <Coordinate>11.5</Coordinate>
-            <Coordinate>3</Coordinate>
-            <Coordinate>0</Coordinate>
-          </CartesianPoint>
-          <Width>3</Width>
-          <Height>6</Height>
-        </RectangularGeometry>
-        <PlanarGeometry>
-          <PolyLoop>
-            <CartesianPoint>
-              <Coordinate>106.2243728</Coordinate>
-              <Coordinate>94.2768145</Coordinate>
-              <Coordinate>3</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>109.2243728</Coordinate>
-              <Coordinate>94.2768145</Coordinate>
-              <Coordinate>3</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>109.2243728</Coordinate>
-              <Coordinate>94.2768145</Coordinate>
-              <Coordinate>9</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>106.2243728</Coordinate>
-              <Coordinate>94.2768145</Coordinate>
-              <Coordinate>9</Coordinate>
-            </CartesianPoint>
-          </PolyLoop>
-        </PlanarGeometry>
         <CADObjectId>Ripcord_Fixed With Size Grips: Standard [1227237]</CADObjectId>
         <Name>S-4-E-W-12-W-1</Name>
-      </Opening>
+      <PlanarGeometry><PolyLoop><CartesianPoint><Coordinate>106.2243728</Coordinate><Coordinate>94.2768145</Coordinate><Coordinate>3.0</Coordinate></CartesianPoint><CartesianPoint><Coordinate>109.2243728</Coordinate><Coordinate>94.2768145</Coordinate><Coordinate>3.0</Coordinate></CartesianPoint><CartesianPoint><Coordinate>109.2243728</Coordinate><Coordinate>94.2768145</Coordinate><Coordinate>9.0</Coordinate></CartesianPoint><CartesianPoint><Coordinate>106.2243728</Coordinate><Coordinate>94.2768145</Coordinate><Coordinate>9.0</Coordinate></CartesianPoint></PolyLoop></PlanarGeometry></Opening>
       </Surface>
     <Surface surfaceType="InteriorWall" id="aim0579">
       <AdjacentSpaceId spaceIdRef="aim0434" surfaceType="InteriorWall"/>
@@ -4076,42 +3977,9 @@
       </PlanarGeometry>
       <CADObjectId>[Face[1313251,15]]</CADObjectId>
     <Opening openingType="OperableWindow" id="aim0794">
-        <RectangularGeometry id="aim0795">
-          <CartesianPoint>
-            <Coordinate>5.5</Coordinate>
-            <Coordinate>3</Coordinate>
-            <Coordinate>0</Coordinate>
-          </CartesianPoint>
-          <Width>3</Width>
-          <Height>6</Height>
-        </RectangularGeometry>
-        <PlanarGeometry>
-          <PolyLoop>
-            <CartesianPoint>
-              <Coordinate>100.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>3</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>100.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>9</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>103.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>9</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>103.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>3</Coordinate>
-            </CartesianPoint>
-          </PolyLoop>
-        </PlanarGeometry>
         <CADObjectId>Ripcord_Fixed With Size Grips: Standard [1227159]</CADObjectId>
         <Name>N-5-E-W-18-W-1</Name>
-      </Opening>
+      <PlanarGeometry><PolyLoop><CartesianPoint><Coordinate>100.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>3.0</Coordinate></CartesianPoint><CartesianPoint><Coordinate>100.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>9.0</Coordinate></CartesianPoint><CartesianPoint><Coordinate>103.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>9.0</Coordinate></CartesianPoint><CartesianPoint><Coordinate>103.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>3.0</Coordinate></CartesianPoint></PolyLoop></PlanarGeometry></Opening>
       </Surface>
     <Surface surfaceType="InteriorFloor" id="aim0773">
       <AdjacentSpaceId spaceIdRef="aim0663" surfaceType="Ceiling"/>
@@ -4508,42 +4376,9 @@
       </PlanarGeometry>
       <CADObjectId>[Face[1313265,16]]</CADObjectId>
     <Opening openingType="OperableWindow" id="aim0897">
-        <RectangularGeometry id="aim0898">
-          <CartesianPoint>
-            <Coordinate>5.5</Coordinate>
-            <Coordinate>3</Coordinate>
-            <Coordinate>0</Coordinate>
-          </CartesianPoint>
-          <Width>3</Width>
-          <Height>6</Height>
-        </RectangularGeometry>
-        <PlanarGeometry>
-          <PolyLoop>
-            <CartesianPoint>
-              <Coordinate>86.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>13.5</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>86.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>19.5</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>89.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>19.5</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>89.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>13.5</Coordinate>
-            </CartesianPoint>
-          </PolyLoop>
-        </PlanarGeometry>
         <CADObjectId>Ripcord_Fixed With Size Grips: Standard [1227292]</CADObjectId>
         <Name>N-7-E-W-26-W-1</Name>
-      </Opening>
+      <PlanarGeometry><PolyLoop><CartesianPoint><Coordinate>86.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>13.5</Coordinate></CartesianPoint><CartesianPoint><Coordinate>86.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>19.5</Coordinate></CartesianPoint><CartesianPoint><Coordinate>89.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>19.5</Coordinate></CartesianPoint><CartesianPoint><Coordinate>89.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>13.5</Coordinate></CartesianPoint></PolyLoop></PlanarGeometry></Opening>
       </Surface>
     <Surface surfaceType="Roof" exposedToSun="true" id="aim1158">
       <AdjacentSpaceId spaceIdRef="aim0975" surfaceType="Roof"/>
@@ -4750,7 +4585,11 @@
         </PolyLoop>
       </PlanarGeometry>
       <CADObjectId>[Face[1313272,20]]</CADObjectId>
-    </Surface>
+    <Opening openingType="OperableWindow" id="aim0965">
+        <CADObjectId>Ripcord_Fixed With Size Grips: Standard [1227294]</CADObjectId>
+        <Name>W-8-E-W-31-W-1</Name>
+      <PlanarGeometry><PolyLoop><CartesianPoint><Coordinate>80.7243728</Coordinate><Coordinate>102.0268145</Coordinate><Coordinate>13.5</Coordinate></CartesianPoint><CartesianPoint><Coordinate>80.7243728</Coordinate><Coordinate>102.0268145</Coordinate><Coordinate>19.5</Coordinate></CartesianPoint><CartesianPoint><Coordinate>80.7243728</Coordinate><Coordinate>105.0268145</Coordinate><Coordinate>19.5</Coordinate></CartesianPoint><CartesianPoint><Coordinate>80.7243728</Coordinate><Coordinate>105.0268145</Coordinate><Coordinate>13.5</Coordinate></CartesianPoint></PolyLoop></PlanarGeometry></Opening>
+      </Surface>
     <Surface surfaceType="Roof" exposedToSun="true" id="aim1357">
       <AdjacentSpaceId spaceIdRef="aim1167" surfaceType="Roof"/>
       <RectangularGeometry id="aim2536">
@@ -4992,42 +4831,9 @@
       </PlanarGeometry>
       <CADObjectId>[Face[1313280,24]]</CADObjectId>
     <Opening openingType="OperableWindow" id="aim1032">
-        <RectangularGeometry id="aim1033">
-          <CartesianPoint>
-            <Coordinate>11.5</Coordinate>
-            <Coordinate>3</Coordinate>
-            <Coordinate>0</Coordinate>
-          </CartesianPoint>
-          <Width>3</Width>
-          <Height>6</Height>
-        </RectangularGeometry>
-        <PlanarGeometry>
-          <PolyLoop>
-            <CartesianPoint>
-              <Coordinate>106.2243728</Coordinate>
-              <Coordinate>94.2768145</Coordinate>
-              <Coordinate>13.5</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>109.2243728</Coordinate>
-              <Coordinate>94.2768145</Coordinate>
-              <Coordinate>13.5</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>109.2243728</Coordinate>
-              <Coordinate>94.2768145</Coordinate>
-              <Coordinate>19.5</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>106.2243728</Coordinate>
-              <Coordinate>94.2768145</Coordinate>
-              <Coordinate>19.5</Coordinate>
-            </CartesianPoint>
-          </PolyLoop>
-        </PlanarGeometry>
         <CADObjectId>Ripcord_Fixed With Size Grips: Standard [1227295]</CADObjectId>
         <Name>S-9-E-W-36-W-1</Name>
-      </Opening>
+      <PlanarGeometry><PolyLoop><CartesianPoint><Coordinate>106.2243728</Coordinate><Coordinate>94.2768145</Coordinate><Coordinate>13.5</Coordinate></CartesianPoint><CartesianPoint><Coordinate>109.2243728</Coordinate><Coordinate>94.2768145</Coordinate><Coordinate>13.5</Coordinate></CartesianPoint><CartesianPoint><Coordinate>109.2243728</Coordinate><Coordinate>94.2768145</Coordinate><Coordinate>19.5</Coordinate></CartesianPoint><CartesianPoint><Coordinate>106.2243728</Coordinate><Coordinate>94.2768145</Coordinate><Coordinate>19.5</Coordinate></CartesianPoint></PolyLoop></PlanarGeometry></Opening>
       </Surface>
     <Surface surfaceType="Roof" exposedToSun="true" id="aim1589">
       <AdjacentSpaceId spaceIdRef="aim1366" surfaceType="Roof"/>
@@ -5147,42 +4953,9 @@
       </PlanarGeometry>
       <CADObjectId>[Face[1313290,16]]</CADObjectId>
     <Opening openingType="OperableWindow" id="aim1111">
-        <RectangularGeometry id="aim1112">
-          <CartesianPoint>
-            <Coordinate>5.5</Coordinate>
-            <Coordinate>3</Coordinate>
-            <Coordinate>0</Coordinate>
-          </CartesianPoint>
-          <Width>3</Width>
-          <Height>6</Height>
-        </RectangularGeometry>
-        <PlanarGeometry>
-          <PolyLoop>
-            <CartesianPoint>
-              <Coordinate>100.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>13.5</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>100.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>19.5</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>103.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>19.5</Coordinate>
-            </CartesianPoint>
-            <CartesianPoint>
-              <Coordinate>103.2243728</Coordinate>
-              <Coordinate>124.2768145</Coordinate>
-              <Coordinate>13.5</Coordinate>
-            </CartesianPoint>
-          </PolyLoop>
-        </PlanarGeometry>
         <CADObjectId>Ripcord_Fixed With Size Grips: Standard [1227293]</CADObjectId>
         <Name>N-10-E-W-42-W-1</Name>
-      </Opening>
+      <PlanarGeometry><PolyLoop><CartesianPoint><Coordinate>100.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>13.5</Coordinate></CartesianPoint><CartesianPoint><Coordinate>100.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>19.5</Coordinate></CartesianPoint><CartesianPoint><Coordinate>103.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>19.5</Coordinate></CartesianPoint><CartesianPoint><Coordinate>103.2243728</Coordinate><Coordinate>124.2768145</Coordinate><Coordinate>13.5</Coordinate></CartesianPoint></PolyLoop></PlanarGeometry></Opening>
       </Surface>
     <Surface surfaceType="Roof" exposedToSun="true" id="aim1710">
       <AdjacentSpaceId spaceIdRef="aim1599" surfaceType="Roof"/>
